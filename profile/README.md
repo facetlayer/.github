@@ -1,3 +1,3 @@
 # facetlayer
 
-Growing ecosystem of AI coding libraries & tools by @andyfischer
+Ecosystem of coding libraries & tools by @andyfischer
